@@ -1,0 +1,26 @@
+#EXTM3U
+# Stream Player - playlist de demonstration / demo playlist for App Review.
+# All streams below are public test streams published by their owners for
+# development purposes, or films released under a Creative Commons licence.
+# No copyrighted broadcast is included.
+
+#EXTINF:-1 tvg-id="demo.apple.1" tvg-name="Apple Test Stream" group-title="Demonstration - Direct",Apple Test Stream (HLS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+
+#EXTINF:-1 tvg-id="demo.apple.2" tvg-name="Apple Advanced Stream" group-title="Demonstration - Direct",Apple Advanced Stream (fMP4)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="demo.mux.1" tvg-name="Mux Test Stream" group-title="Demonstration - Direct",Mux Test Stream
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="demo.mux.2" tvg-name="Mux Multi-Audio" group-title="Demonstration - Direct",Mux Multi-Audio Stream
+https://test-streams.mux.dev/test_001/stream.m3u8
+
+#EXTINF:-1 tvg-id="demo.bbb" tvg-name="Big Buck Bunny" group-title="Demonstration - Films",Big Buck Bunny (Creative Commons)
+https://stream.mux.com/v69RSHhFelSm4701snP22dYz2jICy4E4FUyk02rW4gxRM.m3u8
+
+#EXTINF:-1 tvg-id="demo.tos" tvg-name="Tears of Steel" group-title="Demonstration - Films",Tears of Steel (Creative Commons)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 tvg-id="demo.ptsshift" tvg-name="Unified Streaming Sample" group-title="Demonstration - Films",Unified Streaming Sample
+https://test-streams.mux.dev/pts_shift/master.m3u8
